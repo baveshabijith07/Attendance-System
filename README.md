@@ -20,17 +20,13 @@ A secure and intelligent attendance system built using Python and Streamlit that
 
 ```
 📦 Attendance-System
-├
 │── anti_spoofing_model_xception.h5
 │── known_face_encodings.pkl
 │── known_face_labels.pkl
 │── face_recognition_svm.pkl
-├
 │── schedule.csv
-├
 │── shape_predictor_68_face_landmarks.dat
 ├── 📄 app.py
-├── 📄 requirements.txt
 ├── 📄 README.md
 ```
 
@@ -54,13 +50,7 @@ python -m venv venv
 source venv/bin/activate     # On Windows: venv\Scripts\activate
 ```
 
-3. **Install dependencies**
-
-```bash
-pip install -r requirements.txt
-```
-
-4. **Setup MySQL Database**
+3. **Setup MySQL Database**
 
 - Create a database named `attendance_system`.
 - Import the following schema:
@@ -75,7 +65,7 @@ CREATE TABLE attendance (
 );
 ```
 
-5. **Environment Variables**
+4. **Environment Variables**
 
 Create a `.env` file and add:
 
