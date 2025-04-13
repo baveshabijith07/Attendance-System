@@ -20,15 +20,15 @@ A secure and intelligent attendance system built using Python and Streamlit that
 
 ```
 📦 Attendance-System
-├── 📁 models/
-│   ├── anti_spoofing_model_xception.h5
-│   ├── known_face_encodings.pkl
-│   ├── known_face_labels.pkl
-│   └── face_recognition_svm.pkl
-├── 📁 data/
-│   └── schedule.csv
-├── 📁 utils/
-│   └── shape_predictor_68_face_landmarks.dat
+├
+│── anti_spoofing_model_xception.h5
+│── known_face_encodings.pkl
+│── known_face_labels.pkl
+│── face_recognition_svm.pkl
+├
+│── schedule.csv
+├
+│── shape_predictor_68_face_landmarks.dat
 ├── 📄 app.py
 ├── 📄 requirements.txt
 ├── 📄 README.md
@@ -89,7 +89,10 @@ DB_NAME=attendance_system
 ---
 
 ## ▶️ Running the App
-
+```bash
+python train_anti_spoofing.py
+python train_face_recognition.py
+```
 ```bash
 streamlit run app.py
 ```
