@@ -19,8 +19,8 @@ from streamlit_js_eval import get_geolocation
 load_dotenv()
 
 # College Location (Latitude, Longitude)
-COLLEGE_LAT = 11.0772746
-COLLEGE_LON = 76.9897629
+COLLEGE_LAT = Your_college_latitude
+COLLEGE_LON = Your_college_longitude
 LOCATION_TOLERANCE = 0.001
 
 # Database Configuration
