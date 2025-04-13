@@ -122,12 +122,8 @@ streamlit run app.py
 
 ---
 
-## 🤝 Contributors
+## Done By
 
-- [Your Name](https://github.com/your-username)
+- [A BAVESHABIJITH](https://github.com/baveshabijith07)
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License.
