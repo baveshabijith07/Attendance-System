@@ -81,8 +81,8 @@ Create a `.env` file and add:
 
 ```env
 DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=root1234
+DB_USER= your use name
+DB_PASSWORD= your password
 DB_NAME=attendance_system
 ```
 
