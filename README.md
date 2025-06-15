@@ -118,5 +118,5 @@ streamlit run app.py
 ## Done By
 
 - [A BAVESHABIJITH](https://github.com/baveshabijith07)
-
+- [Thirupathi S]((https://github.com/thirupathi-01))
 ---
