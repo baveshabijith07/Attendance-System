@@ -1,0 +1,36 @@
+﻿Day,Start_Time,End_Time,Subject
+Monday,8:30,9:30,IoT
+Monday,9:30,10:30,Software Engineering
+Monday,10:45,11:45,Elective Theory
+Monday,11:45,12:45,Elective Theory
+Monday,13:40,14:40,Big Data
+Monday,14:40,15:40,Elective Lab
+Monday,15:40,16:40,Elective Lab
+Tuesday,8:30,9:30,Software Engineering Lab
+Tuesday,9:30,10:30,Software Engineering Lab
+Tuesday,10:45,11:45,Free
+Tuesday,11:45,12:45,Free
+Tuesday,13:40,14:40,Software Engineering
+Tuesday,14:40,15:40,Elective Lab
+Tuesday,15:40,16:40,Elective Lab
+Wednesday,8:30,9:30,Machine Learning
+Wednesday,9:30,10:30,Mentor
+Wednesday,10:45,11:45,Machine Learning Lab
+Wednesday,11:45,12:45,Machine Learning Lab
+Wednesday,13:40,14:40,IoT
+Wednesday,14:40,15:40,Information Security
+Wednesday,15:40,16:40,Big Data
+Thursday,8:30,9:30,Elective Theory
+Thursday,9:30,10:30,Elective Theory
+Thursday,10:45,11:45,Big Data
+Thursday,11:45,12:45,Machine Learning
+Thursday,13:40,14:40,Free
+Thursday,14:40,15:40,Information Security
+Thursday,15:40,16:40,Software Engineering
+Friday,8:30,9:30,Information Security
+Friday,9:30,10:30,Free
+Friday,10:45,11:45,Big Data Lab
+Friday,11:45,12:45,Big Data Lab
+Friday,13:40,14:40,IoT
+Friday,14:40,15:40,Machine Learning
+Friday,15:40,16:40,Machine Learning
