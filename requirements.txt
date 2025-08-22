@@ -1,14 +1,9 @@
-# Basic dependencies
 streamlit
 opencv-python-headless
 numpy
 pandas
 Pillow
 scikit-learn
-
-# dlib dependencies
 cmake
 dlib
-
-# Face Recognition
 face-recognition
