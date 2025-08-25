@@ -1,0 +1,12 @@
+version: 1
+frontend:
+    phases:
+        build:
+            commands:
+                - 'streamlit run app.py'
+    artifacts:
+        baseDirectory: /root
+        files:
+            - '**/*'
+    cache:
+        paths: []
