@@ -7,3 +7,9 @@ scikit-learn
 cmake
 dlib
 face-recognition
+mysql-connector-python
+imutils
+dotenv
+streamlit_js_eval
+keras
+tensorflow
